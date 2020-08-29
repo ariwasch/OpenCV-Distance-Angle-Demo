@@ -3,7 +3,7 @@
 
 Using this demo, you can set a target color and enter the variables to get the distance and angle of the target object.
 
-<img src="https://cdn-images-1.medium.com/max/1200/1*DQuAcCjhgQDZnid2ZfNttg.gif" width="482" height="718.5" /> <img src="https://cdn-images-1.medium.com/max/1200/1*ki4GDHUC_ea4l8Gzf5dqIw.png" width="482" height="718.5" />
+<img src="https://cdn-images-1.medium.com/max/1200/1*DQuAcCjhgQDZnid2ZfNttg.gif" width="361.5" height="538.875" /> <img src="https://cdn-images-1.medium.com/max/1200/1*ki4GDHUC_ea4l8Gzf5dqIw.png" width="361.5" height="538.875" />
 
 ### Input Variables
 * Known Width: width of the object in any physical unit (Ex: cm, inches)
