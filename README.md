@@ -1,5 +1,6 @@
 # OpenCV-Distance-Angle-Demo
 
+Check out the Medium article [here!](https://medium.com/@ariwasch/how-to-track-distance-and-angle-of-an-object-using-opencv-1f1966d418b4)
 
 Using this demo, you can set a target color and enter the variables to get the distance and angle of the target object. 
 
